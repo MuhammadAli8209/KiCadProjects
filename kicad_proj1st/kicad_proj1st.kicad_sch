@@ -8927,7 +8927,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uC"
+		(property "Value" "4.7uF"
 			(at 270.51 33.0199 0)
 			(effects
 				(font
@@ -9432,7 +9432,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".1uC"
+		(property "Value" ".1uF"
 			(at 257.81 33.0199 0)
 			(effects
 				(font
