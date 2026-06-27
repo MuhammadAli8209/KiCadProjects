@@ -1,0 +1,9 @@
+# KiCad working files and backups
+*.bak
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# Optional: Ignore manufacturing outputs if you want to auto-generate them later
+# *.gbr
+# *.drl

@@ -5544,7 +5544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf"
+		(property "Datasheet" "https://services.taiwansemi.com/storage/resources/datasheet/TSM2302CX_F2406.pdf"
 			(at 60.96 87.63 0)
 			(effects
 				(font
@@ -6228,7 +6228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf"
+		(property "Datasheet" "https://services.taiwansemi.com/storage/resources/datasheet/TSM2302CX_F2406.pdf"
 			(at 57.15 31.75 0)
 			(effects
 				(font
@@ -9432,7 +9432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf"
+		(property "Datasheet" "https://services.taiwansemi.com/storage/resources/datasheet/TSM2302CX_F2406.pdf"
 			(at 60.96 116.84 0)
 			(effects
 				(font
@@ -9574,7 +9574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf"
+		(property "Datasheet" "https://services.taiwansemi.com/storage/resources/datasheet/TSM2302CX_F2406.pdf"
 			(at 59.69 59.69 0)
 			(effects
 				(font
